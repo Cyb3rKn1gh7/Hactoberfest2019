@@ -40,6 +40,9 @@ Hacktoberfest Classroom Project 2019
 [marcusaj0114](https://github.com/marcusaj0114/)
 > The possibilities are truly endless
 ---
+### Kn1gh7
+[Cyb3rKn1gh7](https://github.com/Cyb3rKn1gh7/)
+>Hacking is not a crime, it's a profession till the time you play with it safely
 
 ### Jose
 [josemorales7](https://github.com/josemorales7/)
